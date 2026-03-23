@@ -23,7 +23,7 @@ Student-Placement-Predictor/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/vikas-m-sharma/Student-Placement-Predictor.git
+git clone https://github.com/code-with-soham/Student-Placement-Predictor.git
 cd Student-Placement-Predictor
 ```
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-👉 The application will open at: [http://localhost:8501](https://code-with-soham.github.io/Student-Placement-Predictor/)
+👉 The application will open at: https://code-with-soham.github.io/Student-Placement-Predictor/
 
 ### 5️⃣ Alternative: Run HTML Version
 Simply open `https://code-with-soham.github.io/Student-Placement-Predictor/` in any modern web browser.
