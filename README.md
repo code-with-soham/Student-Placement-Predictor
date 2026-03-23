@@ -44,10 +44,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-👉 The application will open at: http://localhost:8501
+👉 The application will open at: [http://localhost:8501](https://code-with-soham.github.io/Student-Placement-Predictor/)
 
 ### 5️⃣ Alternative: Run HTML Version
-Simply open `ai-placement-predictor.html` in any modern web browser.
+Simply open `https://code-with-soham.github.io/Student-Placement-Predictor/` in any modern web browser.
 
 ---
 
@@ -174,11 +174,11 @@ MIT License
 
 ## 📧 Contact
 
-**Vikas M Sharma**
+**Soham Kundu**
 
-- GitHub: @vikas-m-sharma  
-- LinkedIn: Vikas M Sharma  
-- Email: vikas.sharma@example.com  
+- GitHub: (https://github.com/code-with-soham) 
+- LinkedIn: https://www.linkedin.com/in/soham-kundu-b5a9a0250/ 
+- Email: sohamkundu84@gmail.com  
 
 ---
 
@@ -199,12 +199,12 @@ If helpful, ⭐ the repo and share!
 ## 📖 Citation
 
 ```bibtex
-@misc{placement-predictor-2024,
-  author = {Vikas M Sharma},
+@misc{placement-predictor-2026,
+  author = {Soham Kundu},
   title = {Student Placement Predictor: AI-Powered Placement Prediction System},
-  year = {2024},
+  year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/vikas-m-sharma/Student-Placement-Predictor}
+  url = https://code-with-soham.github.io/Student-Placement-Predictor/
 }
 ```
 
